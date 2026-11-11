@@ -1,7 +1,7 @@
 {
-  "version": "7.0",
-  "version_code": 7,
-  "download_url": "YOUR_APK_DOWNLOAD_LINK",
+  "version": "8.0",
+  "version_code": 8,
+  "download_url": "https://www.mediafire.com/file/1r8wglf8asvnpkd/AmashEngine-V8-8bp.apk/file",
   "force_update": false,
   "message": "New Amash Engine update available!"
 }
